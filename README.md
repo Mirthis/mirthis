@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Andrea 👋
+
+- 🌐 I've been into web development intermittently since web 1.0 era, and regularly for the last 2 yers
+- 👨‍💻 I primarly code in Typescript/Javascript and NextJS/React are my go to framework
+- 🎓 I'm currently learning Ract Native and how to build games in GoDot
+- 🏢 I'm looking for a job as a full-stack web developer and cool project to collaboratw with
+- 🪟 Check my [Portfolio](https://www.andreacardinale.me/) to know more about some of the things I built and to contact me
+- 😍 I love 🎮 gaming, 🎸heavy-metal, 🎤singing, 🔬 science, 📱 tech and obviosuly 👨‍💻 coding
+
 
 <!--
 **Mirthis/mirthis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
